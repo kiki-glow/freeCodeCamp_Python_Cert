@@ -41,7 +41,7 @@ core Python concepts through practical, test-driven exercises.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/freecodecamp-python-certification.git
+   git clone https://github.com/kiki-glow/freecodecamp-python-certification.git
 
 
 Navigate into a project folder:
