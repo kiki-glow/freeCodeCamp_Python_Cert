@@ -65,5 +65,5 @@ freeCodeCamp Python Certification curriculum.
 
 👤 Author
 
-Your Name
+Glory Kinya
 GitHub: https://github.com/kiki-glow# freeCodeCamp_Python_Cert
