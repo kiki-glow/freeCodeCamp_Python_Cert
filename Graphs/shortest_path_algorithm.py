@@ -1,3 +1,6 @@
+"""
+an implementation of the Dijkstra's shortest-path algorithm using an adjaceny matrix. 
+it finds the shortest distance and actual path from one starting node to another node."""
 INF = float('inf')
 adj_matrix = [
     [0, 5, 3, INF, 11, INF],
@@ -15,6 +18,7 @@ def shortest_path(matrix, start_node, target_node=None):
     paths = [[node_no] for node_no in range(n)]
     visited = [False] * n
     
+    # main Dijkstra loop
     for _ in range(n):
         min_distance = INF
         current = -1
